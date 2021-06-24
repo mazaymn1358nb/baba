@@ -1,1 +1,0 @@
-worker: node DarkMan.js
